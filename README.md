@@ -18,8 +18,8 @@ Sorry, TBD:
 Sorry, TBD:
 
 ```Java Script
-    aaa
-    config.bbb="YOUR API KEY"
+aaa
+config.bbb="YOUR API KEY"
 ```
 
 * Check out the [docs](https://github.com/korodroid/gittest/) and examples below.
@@ -27,4 +27,5 @@ Sorry, TBD:
 ## Examples
 *Sorry, TBD:
 
+## Appendix
 -![alt text](http://www.iplatform.org/blog/wp-content/uploads/2014/02/blog_header2.png "TBD")
