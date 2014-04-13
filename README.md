@@ -16,8 +16,7 @@ Sorry, TBD:
    
 ## Getting Started
 Sorry, TBD:
-
-```Java Script
+```JavaScript
 aaa
 config.bbb="YOUR API KEY"
 ```
